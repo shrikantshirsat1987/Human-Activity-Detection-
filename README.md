@@ -86,17 +86,26 @@ Finally, We've got frequency domain signals from some of the available signals b
 +  LAYING as 6
 
 ## Train and test data were saperated
-The readings from 70% of the volunteers were taken as trianing data and remaining 30% subjects recordings were taken for test data
+The readings from 70% of the volunteers were taken as trianing data and remaining 30% subjects recordings were taken for test data.
+
 ## Data
 All the data is present in 'UCI_HAR_dataset/' folder in present working directory.
+
 Feature names are present in 'UCI_HAR_dataset/features.txt'
+
 ## Train Data
 'UCI_HAR_dataset/train/X_train.txt'
+
 'UCI_HAR_dataset/train/subject_train.txt'
+
 'UCI_HAR_dataset/train/y_train.txt'
+
 ## Test Data
+
 'UCI_HAR_dataset/test/X_test.txt'
+
 'UCI_HAR_dataset/test/subject_test.txt'
+
 'UCI_HAR_dataset/test/y_test.txt'
 
 ## Quick overview of the dataset :
