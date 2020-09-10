@@ -140,3 +140,6 @@ Each datapoint corresponds one of the 6 Activities.
 
 ## Problem Statement
 Given a new datapoint we have to predict the Activity
+
+## Acknowledgments
+• Applied AI Course
